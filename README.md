@@ -1,7 +1,8 @@
-Lab1 AK-2
-Listing of files:
-calculator.h
-'''
+# Lab1 AK-2
+## Listing of files:
+
+* calculator.h
+```
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
@@ -14,9 +15,9 @@ class Calculator
 };
 
 #endif//CALCULATOR_H
-'''
-calculator.cpp
-'''
+```
+* calculator.cpp
+```
 #include "calculator.h"
 
 int Calculator::Add (double a, double b)
@@ -43,10 +44,11 @@ int Calculator::Mul (double a, double b)
 // and 
 // commit 
 // 'em
-'''
-Patches:
-0001-fix-truncation-error.patch
-'''
+```
+## Patches:
+
+* 0001-fix-truncation-error.patch
+```
 From ae4b769dd05f1eaee022dec2f101bb50ff62ff31 Mon Sep 17 00:00:00 2001
 From: Sergii Piatakov <sergii.piatakov@globallogic.com>
 Date: Thu, 15 Nov 2018 15:28:04 +0200
@@ -78,9 +80,9 @@ index b91afea..d93e35b 100644
 -- 
 2.28.0
 
-'''
-0001-formatting-use-tabs-instead-of-spaces.patch
-'''
+```
+* 0001-formatting-use-tabs-instead-of-spaces.patch
+```
 From f48b6813df93d94ddd1a7782dacc6992ffc1e6af Mon Sep 17 00:00:00 2001
 From: Sergii Piatakov <sergii.piatakov@globallogic.com>
 Date: Thu, 15 Nov 2018 15:26:35 +0200
@@ -130,4 +132,4 @@ index 3740907..d59d596 100644
 -- 
 2.28.0
 
-'''
+```
