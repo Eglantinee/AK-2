@@ -1,4 +1,4 @@
-# Lab6 AK-2
+# Lab6 AK-2 (Advanced task)
 ## Examples of different nums:
 ![Alt text](/lab6/screenshots/example1.png)
 ## Example of checking param:
