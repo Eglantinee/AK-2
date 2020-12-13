@@ -1,5 +1,6 @@
-DESCRIPTION:
-
+# Lab3 AK-2
+## DESCRIPTION:
+```man
 	-a, --all 
 	-h, --help
 	-v, --version
@@ -12,3 +13,6 @@ DESCRIPTION:
 	-l, --list=list_of_values_by_coma
 		print array of float numbers; if elem in array is not num it will print 0; 
 		if after num will be anything it will be ignored
+```
+## Examples of working:
+![Alt text](/lab3/screenshots/examples.png?raw=true)
