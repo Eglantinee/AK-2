@@ -1,4 +1,6 @@
 # Lab5 AK-2 (Advanced task)
+## Information about modules:
+![Alt text](/lab6/screenshots/example4.png)
 ## Examples of different nums:
 ![Alt text](/lab6/screenshots/example1.png)
 ## Example of checking param:
